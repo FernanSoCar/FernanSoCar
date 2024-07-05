@@ -42,10 +42,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/FernanSocar/FernanSocar/output/snake.svg" alt="Snake animation" />
-
-###
-
 <h3 align="left">Social Medias</h3>
 
 ###
